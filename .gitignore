@@ -1,0 +1,5 @@
+*.xls
+*.png
+Figures/
+.Rhistory
+Exclude/
